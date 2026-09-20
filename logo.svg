@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-labelledby="title desc">
+<title>CapitalK Investment Private Limited</title><desc>CapitalK geometric K mark and wordmark</desc>
+<rect width="360" height="96" fill="none"/>
+<g transform="translate(8 8)">
+<path d="M12 8v72h16V52l28 28h22L43 43 77 8H56L28 35V8Z" fill="#D2AD63"/>
+<path d="M38 8h22L42 32l-11 11V29Z" fill="#F3EEE4" opacity=".92"/>
+</g>
+<text x="112" y="43" fill="#F3EEE4" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" letter-spacing="3">CAPITALK</text>
+<text x="114" y="65" fill="#9A968D" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="600" letter-spacing="2.1">INVESTMENT PRIVATE LIMITED</text>
+</svg>
